@@ -21,3 +21,9 @@ No Milestone to work on.
 Working on HTML elements.
 Figuring out structure of database.
 Looking for APIs to use for food and store prices.
+
+10/22/18
+What we accomplished: rough draft of main page, login, create user, user page.
+What we talked about: Creating an overall css file.
+Structure of database- need a db for user/password/email, db api for recipes and prices, maybe db for user saved recipes.
+What we will accomplish this week: Get overall css file done. Start on Databases. Find API for prices.
