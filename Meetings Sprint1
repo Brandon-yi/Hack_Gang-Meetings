@@ -31,3 +31,13 @@ What we will accomplish this week: Get overall css file done. Start on Databases
 10/26/18
 What we accomplished: minimal work has been done since monday this week due to midterm season
 What we talked about: assigned brandon and bryn to start the databases and everyone else to continue working on html
+
+10/29/18
+Accomplished: As above, focus was given towards current midterms. Outside of basic database table framework concepts, no tangible work was contributed towards concrete code.
+To do: Moon - Troubleshoot user page and update CSS (currently now working on all browsers)
+Brandon - Determine how to create and host username and password database using SQL
+Bryn - Troubleshoot login page and update CSS (same issue as user page)
+Chris - Smooth CSS formatting across main and user page. Link existing webpages together
+All - Upon finishing mentioned tasks either work on jscript/jsnode connection to database or creating and integrating price/recipe database and API
+Issues: Moon - issues pulling up pages on laptop (taking directly to github also having issues with pages converting between htm and html)
+Brandon - figuring out how to encrypt passwords (unsure as of yet)
